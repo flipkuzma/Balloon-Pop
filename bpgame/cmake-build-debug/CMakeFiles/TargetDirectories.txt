@@ -1,0 +1,3 @@
+C:/Users/filip/CLionProjects/bpgame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/filip/CLionProjects/bpgame/cmake-build-debug/CMakeFiles/bpgame.dir
+C:/Users/filip/CLionProjects/bpgame/cmake-build-debug/CMakeFiles/edit_cache.dir

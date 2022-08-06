@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/filip/CLionProjects/bpgame/bpgame.c
+stdio.h
+-
+stdlib.h
+-
+bpgame.h
+C:/Users/filip/CLionProjects/bpgame/bpgame.h
+time.h
+-
+bpgame.h
+C:/Users/filip/CLionProjects/bpgame/bpgame.h
+
+C:/Users/filip/CLionProjects/bpgame/bpgame.h
+
